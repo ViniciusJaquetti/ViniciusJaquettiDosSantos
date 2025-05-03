@@ -1,0 +1,24 @@
+h1{color:darkcyan; font-size: 35px; text-align: center; font-style: italic;}
+   
+    p{text-align:justify; font-family: Arial, Helvetica, sans-serif;}
+
+h2{color:darkcyan; font-size: 30px; font-style: italic;}
+
+    .lista li{color:black; font-family: Arial, Helvetica, sans-serif;}
+
+ul li{margin-bottom: 10px;}
+
+    .paises:hover{font-weight: bolder; font-family:Arial, Helvetica, sans-serif;} 
+
+        a{font-style: italic;}
+  
+body{background-color:rgb(212, 254, 255);}
+
+    .hobbie{border-radius: 12px;}
+
+        .musica:hover{ background-color:darkcyan; font-weight: bolder; color: black;}
+
+table{border-color:darkcyan;}
+
+        
+
